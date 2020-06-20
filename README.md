@@ -1,0 +1,2 @@
+# latihan
+GitHub Pages
